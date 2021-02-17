@@ -1,0 +1,15 @@
+E:\GITHUB\.Net\Net5.Structure\Net.Structure.Client.Win\bin\Debug\netcoreapp3.1\Net.Structure.Client.Win.exe
+E:\GITHUB\.Net\Net5.Structure\Net.Structure.Client.Win\bin\Debug\netcoreapp3.1\Net.Structure.Client.Win.deps.json
+E:\GITHUB\.Net\Net5.Structure\Net.Structure.Client.Win\bin\Debug\netcoreapp3.1\Net.Structure.Client.Win.runtimeconfig.json
+E:\GITHUB\.Net\Net5.Structure\Net.Structure.Client.Win\bin\Debug\netcoreapp3.1\Net.Structure.Client.Win.runtimeconfig.dev.json
+E:\GITHUB\.Net\Net5.Structure\Net.Structure.Client.Win\bin\Debug\netcoreapp3.1\Net.Structure.Client.Win.dll
+E:\GITHUB\.Net\Net5.Structure\Net.Structure.Client.Win\bin\Debug\netcoreapp3.1\Net.Structure.Client.Win.pdb
+E:\GITHUB\.Net\Net5.Structure\Net.Structure.Client.Win\obj\Debug\netcoreapp3.1\Net.Structure.Client.Win.csprojAssemblyReference.cache
+E:\GITHUB\.Net\Net5.Structure\Net.Structure.Client.Win\obj\Debug\netcoreapp3.1\Net.Structure.Client.Win.Form1.resources
+E:\GITHUB\.Net\Net5.Structure\Net.Structure.Client.Win\obj\Debug\netcoreapp3.1\Net.Structure.Client.Win.csproj.GenerateResource.cache
+E:\GITHUB\.Net\Net5.Structure\Net.Structure.Client.Win\obj\Debug\netcoreapp3.1\Net.Structure.Client.Win.AssemblyInfoInputs.cache
+E:\GITHUB\.Net\Net5.Structure\Net.Structure.Client.Win\obj\Debug\netcoreapp3.1\Net.Structure.Client.Win.AssemblyInfo.cs
+E:\GITHUB\.Net\Net5.Structure\Net.Structure.Client.Win\obj\Debug\netcoreapp3.1\Net.Structure.Client.Win.csproj.CoreCompileInputs.cache
+E:\GITHUB\.Net\Net5.Structure\Net.Structure.Client.Win\obj\Debug\netcoreapp3.1\Net.Structure.Client.Win.dll
+E:\GITHUB\.Net\Net5.Structure\Net.Structure.Client.Win\obj\Debug\netcoreapp3.1\Net.Structure.Client.Win.pdb
+E:\GITHUB\.Net\Net5.Structure\Net.Structure.Client.Win\obj\Debug\netcoreapp3.1\Net.Structure.Client.Win.genruntimeconfig.cache
